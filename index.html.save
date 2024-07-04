@@ -1,0 +1,13 @@
+<title><
+head><
+html><
+!DOCTYPE html>Привет, мир!</title>
+<link rel="таблица стилей" href="bluestyle.css">
+</head>
+<body>
+
+
+
+<p>Новая строка в нашем файле!</p>
+</body>
+</html>
